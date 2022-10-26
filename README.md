@@ -24,5 +24,5 @@ implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1"
 implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.3.1"  
 
 
-![Alt text]([http://full/path/to/img.jpg](https://github.com/Treamz/CryptoAppCompose/blob/master/screenshots/Screenshot_1.png) "Optional title")
-![Alt text]([http://full/path/to/img.jpg](https://github.com/Treamz/CryptoAppCompose/blob/master/screenshots/Screenshot_2.png) "Optional title")
+![Alt text]([http://full/path/to/img.jpg](https://github.com/Treamz/CryptoAppCompose/blob/master/screenshots/Screenshot_1.png?raw=true) "Optional title")
+![Alt text]([http://full/path/to/img.jpg](https://github.com/Treamz/CryptoAppCompose/blob/master/screenshots/Screenshot_2.png?raw=true) "Optional title")
