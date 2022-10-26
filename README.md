@@ -23,6 +23,6 @@ implementation "androidx.navigation:navigation-compose:2.4.0-alpha08"
 implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1"  
 implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.3.1"  
 
-
+![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
 ![Alt text]([http://full/path/to/img.jpg](https://raw.githubusercontent.com/Treamz/CryptoAppCompose/master/screenshots/Screenshot_1.png) "Optional title")
 ![Alt text]([http://full/path/to/img.jpg](https://raw.githubusercontent.com/Treamz/CryptoAppCompose/master/screenshots/Screenshot_2.png) "Optional title")
