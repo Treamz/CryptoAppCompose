@@ -23,6 +23,5 @@ implementation "androidx.navigation:navigation-compose:2.4.0-alpha08"
 implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1"  
 implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.3.1"  
 
-![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
-![Alt text]([http://full/path/to/img.jpg](https://raw.githubusercontent.com/Treamz/CryptoAppCompose/master/screenshots/Screenshot_1.png) "Optional title")
-![Alt text]([http://full/path/to/img.jpg](https://raw.githubusercontent.com/Treamz/CryptoAppCompose/master/screenshots/Screenshot_2.png) "Optional title")
+![Screenshot_1666813159](https://user-images.githubusercontent.com/26204241/198122448-cd6755eb-1e54-4e85-b80a-cb613e38cbff.png)
+![Screenshot_1666813155](https://user-images.githubusercontent.com/26204241/198122455-7fa73a9c-36ff-4970-b34c-c784e051523d.png)
